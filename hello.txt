@@ -1,6 +1,5 @@
 hello git fsdfds23432
 hello git
-<<<<<<< HEAD
 hello git 
 hello git 45345 hot-fix test
 hello git avafd
